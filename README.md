@@ -4,7 +4,11 @@ A fully functional, professional **grocery e-commerce website** built with pure 
 
 ---
 
-## 🌐 Live Demo
+
+## 📸 Screenshots
+
+<img src="Screenshot%202026-03-09%20190226.png" width="900">
+
 
 > Open `index.html` directly in any browser — works 100% offline.
 
